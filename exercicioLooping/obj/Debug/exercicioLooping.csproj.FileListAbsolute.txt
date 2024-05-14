@@ -1,0 +1,10 @@
+C:\Users\2jd.BGLAB\source\repos\exercicioLooping\exercicioLooping\bin\Debug\exercicioLooping.exe.config
+C:\Users\2jd.BGLAB\source\repos\exercicioLooping\exercicioLooping\bin\Debug\exercicioLooping.exe
+C:\Users\2jd.BGLAB\source\repos\exercicioLooping\exercicioLooping\bin\Debug\exercicioLooping.pdb
+C:\Users\2jd.BGLAB\source\repos\exercicioLooping\exercicioLooping\obj\Debug\exercicioLooping.csproj.AssemblyReference.cache
+C:\Users\2jd.BGLAB\source\repos\exercicioLooping\exercicioLooping\obj\Debug\exercicioLooping.frmLooping.resources
+C:\Users\2jd.BGLAB\source\repos\exercicioLooping\exercicioLooping\obj\Debug\exercicioLooping.Properties.Resources.resources
+C:\Users\2jd.BGLAB\source\repos\exercicioLooping\exercicioLooping\obj\Debug\exercicioLooping.csproj.GenerateResource.cache
+C:\Users\2jd.BGLAB\source\repos\exercicioLooping\exercicioLooping\obj\Debug\exercicioLooping.csproj.CoreCompileInputs.cache
+C:\Users\2jd.BGLAB\source\repos\exercicioLooping\exercicioLooping\obj\Debug\exercicioLooping.exe
+C:\Users\2jd.BGLAB\source\repos\exercicioLooping\exercicioLooping\obj\Debug\exercicioLooping.pdb
